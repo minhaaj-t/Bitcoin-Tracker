@@ -64,6 +64,7 @@ To get started with the project locally, follow these steps:
 
 ## Screenshots
 
+![Macbook-Air-u8rmks04qrhdnxaw vercel app](https://github.com/user-attachments/assets/abbe4c2f-e66c-4032-ac7c-5ebc26737e46)
 
 
 ## API Documentation
